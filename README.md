@@ -9,6 +9,30 @@ This repository contains my solutions to problems from **Project Euler**, a seri
 ## 🚀 About Project Euler
 [Project Euler](https://projecteuler.net/) is a collection of problems that require mathematical insight and efficient algorithm design. It is an excellent platform for improving problem-solving skills in competitive programming.
 
-## 📌 Repository Structure
-Each problem is solved using efficient algorithms and mathematical formulas. The solutions are organized as follows:
 
+
+
+- Each file corresponds to a specific problem and is named accordingly.
+- Solutions are implemented in Java
+  
+## 🏆 Topics Covered
+- Number Theory
+- Dynamic Programming
+- Combinatorics
+- Graph Theory
+- Prime Factorization
+- Modular Arithmetic
+
+## 📖 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/HackerRank_ProjectEular.git
+
+
+ Contributions
+This repository is for personal learning, but feel free to fork it and improve the solutions!
+
+🌟 Connect with Me
+LinkedIn: www.linkedin.com/in/kohinoor-mallick
+
+Happy Coding! 🚀

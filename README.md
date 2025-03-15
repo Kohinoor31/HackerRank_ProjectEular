@@ -23,10 +23,6 @@ This repository contains my solutions to problems from **Project Euler**, a seri
 - Prime Factorization
 - Modular Arithmetic
 
-## 📖 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/HackerRank_ProjectEular.git
 
 
  Contributions
